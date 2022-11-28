@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I am Piotr "Peter" Andzel
+#### Software Engineer / Full Stack Developer at [Esri] Core Development
 
-<!--
-**pandzel/pandzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔨 I’m currently working on ArcGIS Online at [Esri]
+- 📚 I’m currently learning [Rust], [PyTorch], [TensorFlow], [Python]
+- 💬 Ask me about [Java], [JavaScript], [TypeScript], [Esri JS API]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👔 [linkedin][Linkedin] **|**
+📷 [My Personal Photography Page][My Personal Photography Page]
+
+[Esri]: https://www.esri.com
+[Linkedin]: https://www.linkedin.com/in/piotrandzel/
+[My Personal Photography Page]: https://piotrandzel.com/
+[PyTorch]: https://pytorch.org/
+[Python]: https://www.python.org/
+[TensorFlow]: https://www.tensorflow.org/
+[Machine Learning]: https://en.wikipedia.org/wiki/Machine_learning
+[Java]: https://www.oracle.com/java/technologies/
+[JavaScript]: https://www.javascript.com/
+[Esri JS API]: https://developers.arcgis.com/javascript/
+[TypeScript]: https://www.typescriptlang.org/
+[Rust]: https://www.rust-lang.org/
