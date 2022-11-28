@@ -1,4 +1,4 @@
-### Hi, I am Piotr "Peter" Andzel
+### Hi, I am Piotr J Andzel
 #### Software Engineer / Full Stack Developer at [Esri] Core Development
 
 
